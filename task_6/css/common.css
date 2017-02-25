@@ -1,0 +1,10 @@
+@charset "utf-8";
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.gray {
+	color: rgb(105,105,105);
+}
